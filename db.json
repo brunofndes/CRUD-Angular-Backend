@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Computador DESKTOP",
+      "price": "4590.34",
+      "id": 2
+    },
+    {
+      "name": "Notebook Dell",
+      "price": "125.45",
+      "id": 3
+    },
+    {
+      "name": "Mouse Redragon",
+      "price": "149.99",
+      "id": 4
+    },
+    {
+      "name": "Teclado Razer",
+      "price": "200",
+      "id": 5
+    }
+  ]
+}
